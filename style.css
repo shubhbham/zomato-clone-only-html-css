@@ -1,14 +1,102 @@
-   
- *{
-   margin: 0;
-   padding: 0;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(225, 225, 233);
+}
+
+
+.box1{
+    background-image: url("food.jpg");
+    height: 400px;
+    background-size: contain;
+    color:rgb(26, 22, 22);
+    
+}
+ p{
+     color:rgb(223, 223, 223);
+     font-size: 30px;
+     padding: 50px;
+     font-family: cursive;
+      border:2px solid white;
+      border-radius: 10px 100px / 120px;
+      
+      margin: 30px 120px 30px 120px;
+      
  }
- ol{
-   height: 65px;
-   background-color: black;
-   color:white;
+ h3{
+    margin-top: -360px;
+    word-spacing: 20px;
+    color:white;
  }
- .normal{
-   background-color: rgb(36, 15, 11);
-   color:rgb(241, 210, 30);
+ .box2{
+     margin:10px;
+ }
+ h2{
+     border:3px solid red;
+    padding-left:30px  ;
+    margin-right: 650px;
+    border-radius: 10px 20px 30px 80px;
+    background-color:rgb(253, 82, 116);
+    color:white;
+ }
+ .zoom1{
+    background-image: url("https://nextbusinessideas.com/wp-content/uploads/2020/06/How-to-Open-Barbeque-Nation-Franchise.jpg");
+    height:400px;
+    width:40%;
+    display:inline-block;
+    border:5px inset rgb(122, 116, 116);
+    border-radius:20px 40px 200px 20px ;
+    margin: 10px 45px 10px 35px;
+    background-size: contain;
+ }
+ .zoom2{
+     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/5c/ce/77/5cce77d488fbaae743369db220b89cc3.jpg");
+     height:400px;
+     width:40%;
+     display:inline-block;
+     border: 5px inset black;
+     border-radius: 20px 40px 200px 20px ;
+     background-size: contain;
+
+ }
+
+ .zoom3{
+     background-image: url("https://th.bing.com/th/id/R.b6568850159373c27c5ed1c77edab5bd?rik=dFHhsolPkztung&riu=http%3a%2f%2fwww.gillespoidevin.com%2fwp-content%2fuploads%2f2016%2f03%2fKFCmix-ad-4.jpg&ehk=wvWHBrzgLifQNpc2U4eQgCpcKBmgyl%2bQYyHAmk8EpmA%3d&risl=&pid=ImgRaw&r=0");
+     width:21%;
+     height:200px;
+     display:inline-block;
+     margin:25px;
+     background-size: contain;
+
+ }
+
+ .zoom4{
+    background-image: url("https://i2.wp.com/www.eatthis.com/wp-content/uploads/2018/05/mcdonalds-burger-fries-soda.jpg?fit=1024%2C750&ssl=1");
+    width:21%;
+    height:200px;
+    display:inline-block;
+    margin:22px;
+    background-size: contain;
+ }
+ .zoom5{
+    background-image: url("https://th.bing.com/th/id/R.e5a67739102d444d615f833a589eb483?rik=wceoyEeU4roVpw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-e0S-mK0SYao%2fTWe6xlfxEfI%2fAAAAAAAAAFE%2fmBidHNurJm4%2fs1600%2frrr.jpg&ehk=oQfXNdfsH%2bIJKg0Q%2fRLSt6vJ6vvlpSXbDNfsZCuc4OM%3d&risl=&pid=ImgRaw&r=0");
+    width:21%;
+    height:200px;
+    display:inline-block;
+    margin:22px;
+    background-size: contain;
+ }
+
+
+ .zoom6{
+    background-image: url("https://th.bing.com/th/id/OIP.DtZWBlQb3kvTUm4kl8oqkgHaHa?pid=ImgDet&w=768&h=768&rs=1");
+    width:21%;
+    height:200px;
+    display:inline-block;
+    margin:22px;
+    background-size: contain;
  }
